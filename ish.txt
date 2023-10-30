@@ -1,0 +1,6 @@
+apk add vim
+apk add python3
+apk add py3-pip
+mkdir notebook
+mount -t ios . notebook
+

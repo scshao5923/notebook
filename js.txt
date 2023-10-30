@@ -1,0 +1,7 @@
+Array.from('邵\u{1d11e}').length	//取得真實字串長度
+str.codePointAt(p_idx) //取得字串位置p_idx的code point
+String.fromCodePoint(p_codePoint) // 將p_codePoint轉為字元 
+str.charAt(p_idx) //取得字串位置p_idx的碼元
+str.length //取得字串的碼元長度
+document.getElementById("btn")
+document.querySelector('.chevron-up')

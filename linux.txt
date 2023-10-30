@@ -1,0 +1,2 @@
+sudo apt-get install ibus-chewing
+sudo apt-get install ibus-cangjie

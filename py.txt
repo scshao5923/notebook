@@ -1,0 +1,3 @@
+python -c “help(print)”
+python -m http.server
+
