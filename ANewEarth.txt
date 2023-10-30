@@ -1,3 +1,23 @@
+mineral
+	[ˈmɪnǝrǝl]
+	礦物
+realm
+	[rɛlm]
+	界，領域；範圍
+	 Flowers, more fleeting, more ethereal, and more delicate than the plants out of which they emerged, would become like messengers from another realm, like a bridge between the world of physical forms and the formless.
+ethereal
+	[ɪˈθɪrɪǝl] 
+	如空氣般輕的；飄逸的；精緻的；縹緲的 
+fleeting
+	轉瞬間的；短暫的
+sermon
+	[ˈsɝmǝn]
+	布道，說教,法會
+	 a “silent sermon”
+contemplate
+	[ˈkɑntɛmˌplеt]
+	思忖，思量，仔細考慮
+	 Jesus tells us to contemplate the flowers and learn from them how to live.
 mystic
 	[ˈmɪstɪk] 
 	神祕主義者 
@@ -13,7 +33,8 @@ utilitarian
 	the first thing they came to value that had no utilitarian purpose for them
 fragrant
 	[ˈfrеɡrǝnt] 
-	香的，芳香的 			
+	香的，芳香的 
+	fragrance			
 	Much later, those delicate and fragrant beings we call flowers would come to play an essential part in the evolution of consciousness of another species.
 delicate
 	[ˈdɛlǝkǝt] 
@@ -159,9 +180,6 @@ manifestation
 	manifest
 affinity
 	姻親關係；密切關係 
-ethereal
-	[ɪˈθɪrɪǝl] 
-	如空氣般輕的；飄逸的；精緻的；縹緲的 
 immemorial
 	[ˌɪmǝˈmorɪǝl] 
 	無法追憶的；古老的；遠古的 
@@ -260,6 +278,8 @@ intermingle
 intrinsic
 	[ɪnˈtrɪnsɪk] 
 	本身的；本質的；固有的；內在的 
+	intrinsically
+		 The feelings of joy and love are intrinsically connected to that recognition.
 oneness
 	單一性；同一性；統一性
 	 the intrinsic oneness of everything
