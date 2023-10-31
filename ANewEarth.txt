@@ -1,3 +1,7 @@
+immemorial
+	[ˌɪmǝˈmorɪǝl] 
+	無法追憶的；古老的；遠古的 
+	since time immemorial
 defy
 	反抗，蔑視 
 	 defying the force of gravity that had held them for so long
@@ -203,10 +207,6 @@ manifestation
 	manifest
 affinity
 	姻親關係；密切關係 
-immemorial
-	[ˌɪmǝˈmorɪǝl] 
-	無法追憶的；古老的；遠古的 
-	since time immemorial
 webinar
 	網路研討會 
 	seminar
