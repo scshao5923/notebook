@@ -1,10 +1,52 @@
+defy
+	反抗，蔑視 
+	 defying the force of gravity that had held them for so long
+reptilian
+	[rɛpˈtɪlɪǝn] 
+	爬蟲	
+	Most crawling reptilians, the most earthbound of all creatures
+crawl
+	爬行
+earthbound
+	局限於土地的,為世俗利益所束縛的
+precious
+	[ˈprɛʃǝs]
+	 Some carbons, under inconceivable heat and pressure, turn into diamonds, and some heavy minerals into other precious stones.
+inconceivable
+	[ˌɪnkǝnˈsivǝbḷ]
+	【口】不能相信的；非凡的 
+	inconceivable heat
+	conceive
+molecular
+	[mǝˈlɛkjǝlɚ] 
+	molecule
+		[ˈmɑlǝˌkjul] 
+	 a change in their molecular structure
+impenetrable
+	[ɪmˈpɛnǝtrǝbḷ] 
+	不能通過的；不能穿過的；不能刺穿的 
+	 more impenetrable than a rock
+discontinuity
+	[ˌdɪskɑntǝˈnjuǝtɪ]
+	斷絕；中斷
+	It is, however, an extremely rare occurrence since it is more than an evolutionary progression: It also implies a discontinuity in its development, a leap to an entirely different level of Being and, most important, a lessening of materiality.
+materiality
+	[mǝˌtɪrɪˈælǝtɪ]
+	物質性,實體
+occurrence
+	[ǝˈkɝǝns]
+	事件；事變
+progression
+	[prǝˈɡrɛʃǝn]
+	前進,連續,發展；改進
+	an evolutionary progression
 mineral
 	[ˈmɪnǝrǝl]
 	礦物
 realm
 	[rɛlm]
 	界，領域；範圍
-	 Flowers, more fleeting, more ethereal, and more delicate than the plants out of which they emerged, would become like messengers from another realm, like a bridge between the world of physical forms and the formless.
+	Flowers, more fleeting, more ethereal, and more delicate than the plants out of which they emerged, would become like messengers from another realm, like a bridge between the world of physical forms and the formless.
 ethereal
 	[ɪˈθɪrɪǝl] 
 	如空氣般輕的；飄逸的；精緻的；縹緲的 
@@ -149,25 +191,6 @@ tolerant
 mental
 	精神的，心理的 
 	 As we no longer identify with our mental positions, we are able to be tolerant of other people’s beliefs and perspectives.
-impenetrable
-	[ɪmˈpɛnǝtrǝbḷ] 
-	不能通過的；不能穿過的；不能刺穿的 
-molecular
-	:[mǝˈlɛkjǝlɚ] 
-	molecule
-		[ˈmɑlǝˌkjul] 
-inconceivable
-	[ˌɪnkǝnˈsivǝbḷ]
-	【口】不能相信的；非凡的 
-	inconceivable heat
-	conceive
-reptilian
-	[rɛpˈtɪlɪǝn] 
-	爬蟲
-defy
-	反抗，蔑視 
-crawl
-	爬行
 transcend
 	超越
 	transcends the merely personal dimension of existence
